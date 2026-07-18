@@ -1,2 +1,3 @@
-# learning-notes
-Daily learning notes and tutorials
+# Learning Notes
+
+Daily learning notes and tutorials.
