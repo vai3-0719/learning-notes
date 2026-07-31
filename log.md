@@ -37,3 +37,6 @@
 ## Learning Log - 2026-07-30
 - Reviewed new topics
 
+## Learning Log - 2026-07-31
+- Reviewed new topics
+
