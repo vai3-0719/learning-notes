@@ -58,3 +58,6 @@
 ## Learning Log - 2026-08-07
 - Reviewed new topics
 
+## Learning Log - 2026-08-08
+- Reviewed new topics
+
