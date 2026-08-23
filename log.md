@@ -103,3 +103,6 @@
 ## Learning Log - 2026-08-22
 - Reviewed new topics
 
+## Learning Log - 2026-08-23
+- Reviewed new topics
+
