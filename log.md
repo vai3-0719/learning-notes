@@ -328,3 +328,6 @@
 ## Learning Log - 2026-11-05
 - Reviewed new topics
 
+## Learning Log - 2026-11-06
+- Reviewed new topics
+
