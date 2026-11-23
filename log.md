@@ -379,3 +379,6 @@
 ## Learning Log - 2026-11-22
 - Reviewed new topics
 
+## Learning Log - 2026-11-23
+- Reviewed new topics
+
